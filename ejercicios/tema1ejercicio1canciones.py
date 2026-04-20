@@ -1,6 +1,6 @@
 #Obtener valores introducidos por el usuario
 
-Pide a la usuaria que introduzca la siguiente información sobre su canción favorita:
+#Pide a la usuaria que introduzca la siguiente información sobre su canción favorita:
 
 titulo_cancion = input("cual es tu cancion favorita?")
 
@@ -22,6 +22,6 @@ print("pertenece al album: ",album)
 
 print("el ano de lanzamiento es: ",ano_lanzamiento)
 
-print("laduracio de la cancion en segundos es: ",duracion_en_segundos)
+print("la duracion de la cancion en segundos es: ",duracion_en_segundos)
 
 print("tiene videoclip?: ", videoclip)
