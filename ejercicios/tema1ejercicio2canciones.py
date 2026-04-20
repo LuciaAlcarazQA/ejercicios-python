@@ -25,3 +25,7 @@ print("el ano de lanzamiento es: ",ano_lanzamiento)
 print("la duracion de la cancion en segundos es: ",duracion_en_segundos)
 
 print("tiene videoclip?: ", videoclip)
+
+#Solicita los mismos datos de la canción que menos le guste.
+
+
