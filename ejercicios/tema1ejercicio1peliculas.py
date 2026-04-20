@@ -33,6 +33,8 @@ duration_minutes = 142
 #Booleanos (True o False)
 does_it_have_awards = True
 
+
+#Imprimir las variables
 print("Title:", movie_title)
 print("Director:", movie_director)
 print("Year:", release_year)
