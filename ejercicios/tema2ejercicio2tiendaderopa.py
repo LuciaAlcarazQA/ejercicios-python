@@ -5,9 +5,9 @@ sudadera = 20.5
 gorra = 5.5
 
 #2.Pide a la usuaria la cantidad de cada artículo.
-cantidad_camisetas = input("¿cuantas camisetas necesitas comprar?: ")
-cantidad_sudaderas = input("¿cuantas sudaderas necesitas comprar?: ")
-cantidad_gorras = input("¿cuantas gorras necesitas comprar?: ")
+cantidad_camisetas = float (input("¿cuantas camisetas necesitas comprar?: "))
+cantidad_sudaderas = float (input("¿cuantas sudaderas necesitas comprar?: "))
+cantidad_gorras = float (input("¿cuantas gorras necesitas comprar?: "))
 
 #3 Calcula el total de la compra.
 
