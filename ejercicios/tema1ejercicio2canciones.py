@@ -32,7 +32,7 @@ videoclip2 = input("¿Tiene videoclip (verdadero o falso)? ")
 print("tu cancion que menos te gusta: ", titulo_cancion2)
 print("la artista que la canta es: ", artista2)
 print("pertenece al album: ", album2)
-print("el ano de lanzaiento es: ", lanzamiento2)
+print("el ano de lanzaiento es: ", ano_lanzamiento2)
 print("la duracion de la cancion en segundos es de: ", duracion_en_segundos2)
 print("tiene videoclip?: ", videoclip2)
 
