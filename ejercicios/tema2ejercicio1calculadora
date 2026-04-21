@@ -9,4 +9,8 @@ resta = numero1 - numero2
 multiplicacion = numero1 * numero2
 division = numero1 / numero2
 
-print 
+#imprimir resultados
+print("suma", suma)
+print("resta", resta)
+print("multiplicacion", multiplicacion)
+print("division", division)
