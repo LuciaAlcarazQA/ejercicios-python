@@ -1,4 +1,4 @@
-#1. Pide a la usuaria dos números
+#1. Pide a la usuaria dos numeros
 #Convertimos a numero. int (sin decimales), float (puede tener o no tener decimales)
 numero1 = float (input("introduzca un numero"))
 numero2 = float (input("introduzca otro numero"))
