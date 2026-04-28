@@ -18,3 +18,10 @@ def mostrar_mensaje(color):
         mensaje = "morado: sabiduria y creatividad"
     else:
         mensaje = "color no valido"
+
+        return mensaje
+
+color = pedir_color()
+resultado = mostrar_mensaje(color)
+
+print(resultado)
