@@ -25,3 +25,5 @@ color = pedir_color()
 resultado = mostrar_mensaje(color)
 
 print(resultado)
+
+
